@@ -112,3 +112,6 @@ url = {https://www.sciencedirect.com/science/article/pii/S0168169922003350},
 author = {Weiran Li and Fei Li and Zhenbo Li},
 }
 ```
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=vranlee/CMFTNet&type=Date)](https://star-history.com/#vranlee/CMFTNet&Date)
